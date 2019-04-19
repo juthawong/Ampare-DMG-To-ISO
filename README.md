@@ -14,7 +14,7 @@ Made with Love By Juthawong Naisanguansee
 ### Download
 [![Download Ampare DMG To ISO](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ampare-dmg-to-iso/files/latest/download)
 
-## #Credit :
+### Credit :
 
 Original Author of DMG2IMG - vu1thur , Peter Wu and other awesome developer :
 http://vu1tur.eu.org/tools/
