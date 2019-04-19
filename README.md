@@ -3,4 +3,4 @@ Simple Windows GUI to vu1tur DMG To ISO
 
 
 
-![alt text](https://i.imgur.com/cVJlGwy "Ampare DMG To ISO")
+!https://i.imgur.com/cVJlGwy]( "Ampare DMG To ISO")
