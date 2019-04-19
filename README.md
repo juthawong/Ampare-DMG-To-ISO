@@ -6,9 +6,13 @@ Simple Windows GUI to vu1tur DMG To ISO
 
 ### Convert Apple Disk Image (DMG) to ISO Image (ISO) with Ease
 
-The Story Begin When One of My Close Friend want to convert DMG To ISO. He is an Average Joe and don't know how to use Command Line. So, I make this Windows GUI to Solve his problem and may be yours too :kissing_heart::kissing_heart:
+The story begin when one of my close friend want to convert DMG to ISO. He is an Average Joe and don't know how to use Command Line Stuff. So, I make this Windows GUI to Solve his problem and may be yours too :kissing_heart::kissing_heart:
 
 
+Made with Love By Juthawong Naisanguansee 
+
+### Download
+[![Download Ampare DMG To ISO](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ampare-dmg-to-iso/files/latest/download)
 
 ###Credit :
 
